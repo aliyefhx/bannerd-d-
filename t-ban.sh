@@ -31,4 +31,4 @@ cat "cl34r.txt" >> /data/data/com.termux/files/usr/etc/bashrc
 cat "C0w54y.txt" >> /data/data/com.termux/files/usr/etc/bashrc
 ls
 cat "84nn3r.txt" >> /data/data/com.termux/files/usr/etc/bashrc
-tc/bashrc
+etc/bashrc
