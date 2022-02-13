@@ -15,7 +15,7 @@ figlet -f big Done !!! | lolcat
 echo
 echo -e "\e[1m Now Run \e[32mbash t-ban.sh\e[0m...!!!"
 echo
-echo -e "\e[1m\e[32m Developed by :\e[33m abd~ksa@n.c (abd)"
+echo -e "\e[1m\e[32m Made by :\e[33m @aliyefh_sos (bgm)"
 echo
 echo
 echo
