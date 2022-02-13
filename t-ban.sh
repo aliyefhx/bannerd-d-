@@ -1,11 +1,4 @@
-#!/bin/bash
-#
-#
-# Termux Banner
-# Banner by abd~ksa@nimbuzz.com
-# _____Do Not Copy Or Modify_____
-#
-#
+# BANNER BY BGMALIY
 clear
 figlet -f big Termux Banner | lolcat
 cyan='\e[0;36m'
@@ -14,7 +7,7 @@ red='\e[1;31m'
 yellow='\e[1;33m'
 echo -e $lightgreen "\e[1m                Security Help For Ethical Hackers... "
 echo " "
-echo -e $yellow "\e[1m                         -abd~ksa@n.c "
+echo -e $yellow "\e[1m                         @aliyefh_sos "
 echo " "
 echo " "
 echo " "
