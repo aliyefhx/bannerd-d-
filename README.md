@@ -1,9 +1,9 @@
 # Termux Banner
-#Script by ABDULLAH AL MASUM
+#Made by @aliyefh_sos
 
 Installation Step :
 
-1) git clone https://github.com/abd12345/Termux-Banner
+1) git clone https://github.com/aliyefhx/banner-d-
 
 
 2) cd Termux-Banner
